@@ -1,2 +1,2 @@
 # big-data-analytics-project
-Big data analytics project
+Telco Customer Churn Prediction

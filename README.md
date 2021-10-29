@@ -9,5 +9,5 @@ I am currently studying for a big data analytics project.
 ---
 
 Languages and tools to learn:
-R
-Python
+R and Python
+

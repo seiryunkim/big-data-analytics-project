@@ -37,3 +37,11 @@ The fourth step of approach for a tentative overall methodology regarding teleco
 Step 5: Evaluating Predictive Models
 
 The last step of approach for a tentative overall methodology regarding telecommunications customer churn prediction is evaluating predictive models. The technique that may use for evaluation of predictive models is confusion matrix to calculate accuracy, precision, F1 score, sensitivity, and specificity. This project will compare various types of predictive models and see whether these predictive models have been shown the effectiveness to predict telecommunications customer churn.
+
+---
+
+Outlining the content of the repository
+
+Data Description
+
+The data used in this project is Telco Customer Churn Dataset. Telco Customer Churn Dataset is originally made by IBM Cognos Analytics. IBM Cognos made a sample data about a fictional telecommunications company’s customer churn based on various factors. The dataset used in this project is Telco Customer Churn Dataset that is updated by BlastChar from Kaggle website. Telco Customer Churn Dataset updated by BlastChar from Kaggle website has 7,043 observations and 21 variables.
